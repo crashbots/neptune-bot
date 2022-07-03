@@ -4,7 +4,7 @@
 
 Simple crash bot with logs and db
 
-How to download? Click green button "Code" and "Dwonload ZIP"
+How to download? Click green button "Code" and "Download ZIP"
 
 How to start?
 Edit config.ini to add bot token
